@@ -8,7 +8,7 @@
 	<name>archetypeMavenJava</name>
 	<url>http://evatlsong.github.io</url>
 	<scm>
-        <developerConnection>scm:git:evatlsong@192.168.1.10:/home/evatlsong/Public/archetype-maven-java</developerConnection>
+        <developerConnection>scm:git:https://github.com/evasong10/archetype-maven-java.git</developerConnection>
 	</scm>
 	<properties>
 
