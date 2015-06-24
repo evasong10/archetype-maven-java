@@ -7,6 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>archetypeMavenJava</name>
 	<url>http://evatlsong.github.io</url>
+	<scm>
+        <developerConnection>scm:git:evatlsong@192.168.1.10:/home/evatlsong/Public/archetype-maven-java</developerConnection>
+	</scm>
 	<properties>
 
 		<!-- Generic properties -->
